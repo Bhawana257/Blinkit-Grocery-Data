@@ -1,17 +1,30 @@
 <img width="1137" height="583" alt="image" src="https://github.com/user-attachments/assets/4f1f1c68-cdb3-45b5-b033-677e2edb994c" />
-This dashboard provides a comprehensive analysis of Blinkit’s sales performance and outlet metrics, visualized through various KPIs and charts. It is designed to track revenue trends, customer preferences, and operational efficiency across different outlet types and locations.
-Key Performance Indicators (KPIs)
-Total Sales: $1.20M
-Average Sales: $141
-Number of Items: 8,523
-Average Rating: 4.0
-Sales & Inventory Breakdown
-Outlet Establishment Year: An area chart showing sales trends from 2011 to 2022, peaking significantly in 2018 at $204.5K.
-Fat Content Analysis: Low-fat items contribute significantly more to sales ($776.3K, 65%) compared to regular-fat items ($425.4K, 35%).
-Item Category Performance: "Fruits and Vegetables" and "Snack Foods" are the top-selling categories, both exceeding $175K in total sales.
-Outlet Size & Location:
-Medium-sized outlets are the largest contributors (42%).
-Tier 3 locations generate the highest revenue ($472.1K), followed by Tier 2 and Tier 1.
-Operational Insights
-Outlet Type: Supermarket Type 1 is the dominant outlet format, leading in total sales, average sales, and the number of items stocked.
-Fat Content by Outlet Tier: Tier 3 shows a balanced distribution but leads in overall sales for both Low Fat and Regular items.
+Blinkit Sales Performance Analysis Dashboard
+📊 Project Overview
+This project features a comprehensive Sales Performance Dashboard for Blinkit (India's Last Minute App). The goal was to analyze retail data to uncover insights into sales trends, customer preferences, and outlet performance. This dashboard provides a data-driven approach to understanding how different factors like item types, fat content, outlet size, and location impact overall revenue.
+
+🛠️ Tech Stack
+Tool: Microsoft Excel / Power BI (Adjust based on what you used)
+
+Data Cleaning: Power Query
+
+Visualization: Advanced Charting, Slicers, and KPI Cards
+
+Concepts: Data Modeling, DAX (if Power BI), and Conditional Formatting
+
+📈 Key Insights & Features
+The dashboard tracks several critical KPIs and performance metrics:
+
+Core KPIs: Total Sales ($1.20M), Average Sales ($141), Number of Items (8523), and Average Rating (4.0).
+
+Fat Content Analysis: Identifies that Low Fat items contribute to 65% of total sales compared to Regular fat items.
+
+Item Performance: Breakdown by category, showing Fruits and Vegetables and Snack Foods as the top revenue generators.
+
+Outlet Analysis: * Outlet Size: Medium-sized outlets contribute the largest share (43%) of sales.
+
+Location: Tier 1 cities outperform Tier 2 and Tier 3 in total revenue.
+
+Establishment Year: A trend analysis showing growth from 2011 to 2022, with a significant peak in 2018.
+
+Outlet Type: Supermarket Type 1 stands out as the primary driver of both sales and item volume.
